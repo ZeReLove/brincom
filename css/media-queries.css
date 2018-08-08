@@ -17,7 +17,7 @@
 	}
 
 	h2{
-		font-size: 30px !important;
+		font-size: 26px !important;
 	}
 
 	.projects_header{
@@ -73,16 +73,32 @@
 		width: 230px;
 	}
 
+	.fourth-team img{
+		margin-top: 10% !important; 
+	}
+
+
+	#team h4{
+		text-align: center;
+	}
+
+	#team p{
+		text-align: center;
+	}
+
 
 	.laptop{
 		visibility: hidden;
 	}
 
+	.accordion h2{
+		padding-bottom: 0 !important;
+	}
 
 	.accordion{
 		max-width: 560px !important;
   		min-width: 560px !important;
-		margin-left: -500px !important;
+		margin-left: -550px !important;
 		
 	}
 
@@ -129,18 +145,38 @@
 		font-size: 24px;
 	
 	}
-
-	#header p{
-		font-size: 20px;
-	}
 	
 	.first-screen-line{
 		width: 500px;
 	}
 
+	.header{
+		font-size: 11px;
+	}
+
 	.first-team, .second-team, .third-team, .fourth-team, .fifth-team, .sixth-team{
 		width: 150px;
 	}
+
+	#team img{
+		width: 100px;
+		margin-top: 60%;
+	}
+
+	.fourth-team img{
+		margin-top: 75% !important; 
+	}
+
+	#team h4{
+		font-size: 18px;
+		text-align: center;
+	}
+
+	.team{
+		margin-top: 25%;
+		font-size: 14px;
+	}
+
 
 	#team .fas{
 		font-size: 32px;
@@ -153,7 +189,7 @@
 	}
 	
 	#products{
-		min-height: 1000px;
+		min-height: 800px;
 	}
 
 	.accordion{
@@ -250,8 +286,33 @@
 	}
 	
 
-.first-team, .second-team, .third-team, .fourth-team, .fifth-team, .sixth-team{
+	.first-team, .second-team, .third-team, .fourth-team, .fifth-team, .sixth-team{
 		width: 100px;
+		height: 200px;
+	}
+
+
+	#team img{
+		width: 70px;
+		margin-top: 60%;
+	}
+
+	.fourth-team img{
+		margin-top: 75% !important; 
+	}
+
+	#team h4{
+		font-size: 16px;
+		text-align: center;
+	}
+
+	.team{
+		margin-top: 25%;
+		font-size: 12px;
+	}
+
+	.second-row{
+		margin-top: -40%;
 	}
 
 	#benefits .fas{
@@ -266,6 +327,10 @@
 
 	.fourth-benefit{
 		visibility: hidden;
+	}
+
+	#products{
+		min-height: 900px;
 	}
 	
 	.accordion {
@@ -287,7 +352,8 @@
 
 	.projects_header{
 		font-size: 22px !important;
-		margin-left: 130px !important;
+		margin-left: 10px !important;
+		text-align: center;
 	}
 
 
